@@ -16,10 +16,10 @@ class App extends Component {
                         <img src="http://runecom07.runtime.vn/Uploads/shop96/images/product/05_01_2015_11_14_47_TGDd-TetSamsung-800x350.jpg" alt="Los Angeles" width={1100} height={500} />
                     </div>
                     <div className="carousel-item">
-                        <img src="chicago.jpg" alt="Chicago" width={1100} height={500} />
+                        <img src="http://runecom07.runtime.vn/Uploads/shop96/images/product/31_12_2014_13_35_23_TGDd-HappyNewYear-800x350.jpg" alt="Chicago" width={1100} height={500} />
                     </div>
                     <div className="carousel-item">
-                        <img src="ny.jpg" alt="New York" width={1100} height={500} />
+                        <img src="http://runecom07.runtime.vn/Uploads/shop96/images/product/31_12_2014_13_48_59_TGDd-GalaxyA5-800x350.jpg" alt="New York" width={1100} height={500} />
                     </div>
                 </div>
                 {/* Left and right controls */}
